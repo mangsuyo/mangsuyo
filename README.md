@@ -30,7 +30,6 @@
 <div align="center">
    
    ## 😻 Project
-</div>
    
    | 기간 | 프로젝트명 | 설명 | 역할 | 
    |:---:|:---:|:---:|:---:|
@@ -39,6 +38,9 @@
    | 24.03 ~ ing | <b>[Blottie](https://github.com/mangsuyo/SPARTATON-FE)</b> | 교내 외국인 X 내국인 대학생 매칭 및 교류 플랫폼 | <img src="https://img.shields.io/badge/Frontend-35637C">
 
    <br>
+   
+</div>
+
 
 ---
 
