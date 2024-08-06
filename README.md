@@ -1,37 +1,36 @@
+<div align="center">
+  
+## ✨ Mangsuyo ✨
+</div>
 
-<div align = "center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:28A0FF,100:0078FF&text=Mangsuyo&fontColor=87CEEB&animation=fadeIn">
-   
-   ## 🧅 About ME <br>
-   | 소속 | 기간 | 
-   |:---:|:---:|
-   | [멋쟁이 사자처럼 11기 [프론트 트랙]](https://likelion11.simple.ink/) | (22.08 ~ 22.12) |
-   | [멋쟁이 사자처럼 12기 [백엔드 트랙]](https://likelion12.simple.ink/) | (24.03 ~ ing) |
-   | [초록 스터디 3기](https://edu.nextstep.camp/s/2UFMB8OJ) | (24.03 ~ 24.08) |
+- Computer Engineering Department at Sejong University (20.02 ~ )
 
-   <br>
-   
-   ## 🌱 FRONTEND STACK
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=js,react,tailwind,vite,vercel" />
-     </a>
-   </p>
+- Likelion 11th FE (23.08 ~ 23.12)
 
-   <br>
+- Likelion 12th BE (24.03 ~ )
 
-   
-   ## 🌱 BACKEND STACK
-   <p align="center">
-     <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,aws" />
-     </a>
-   </p>
+- NextStep Chlog BE Study (24.03 ~ )
+
+---
+
+<div align="center">
+
+## ✨ Skills ✨
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=css,html,react,tailwind,vite,vercel,spring,mysql,postman,aws)](https://skillicons.dev)
+- 
+[![My Skills](https://skillicons.dev/icons?i=c,py,js,java)](https://skillicons.dev)
+-
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,git,github,notion,vscode)](https://skillicons.dev)
+
+---
 
 
-   <br>
+<div align="center">
    
    ## 😻 Project
+</div>
    
    | 기간 | 프로젝트명 | 설명 | 역할 | 
    |:---:|:---:|:---:|:---:|
@@ -40,7 +39,33 @@
    | 24.03 ~ ing | <b>[Blottie](https://github.com/mangsuyo/SPARTATON-FE)</b> | 교내 외국인 X 내국인 대학생 매칭 및 교류 플랫폼 | <img src="https://img.shields.io/badge/Frontend-35637C">
 
    <br>
-   
-   ## 💫 Solved.ac
+
+---
+
+<div align="center">
+
+   ## 💫 Algorithm
    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayo3610 )](https://solved.ac/profile/mayo3610)
 </div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/mangsuyo"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
+---
+
+<div align="right">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungminstar&count_bg=%23FFD369&title_bg=%23B2B1B9&icon=smugmug.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+</div>
+  
+
+
