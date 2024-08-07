@@ -18,7 +18,7 @@
 ## ✨ Skills ✨
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,react,tailwind,vite,vercel,spring,mysql,postman,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite,vercel,spring,mysql,postman,aws)](https://skillicons.dev)
 - 
 [![My Skills](https://skillicons.dev/icons?i=c,py,js,java)](https://skillicons.dev)
 -
