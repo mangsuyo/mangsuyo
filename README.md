@@ -9,7 +9,7 @@
 
 - Likelion 12th BE (24.03 ~ )
 
-- NextStep Chlog BE Study (24.03 ~ )
+- NextStep Cholog BE Study (24.03 ~ )
 
 ---
 
