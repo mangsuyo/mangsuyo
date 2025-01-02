@@ -35,7 +35,7 @@
    |:---:|:---:|:---:|:---:|
    | 23.10 ~ 23.11 | <b>[Borrow-Here](https://github.com/mangsuyo/MIRTHON-FE)</b> | 상업 공간 대여 서비스 - 바로여기| <img src="https://img.shields.io/badge/Frontend-35637C"> |
    | 24.07 ~ 24.08 | <b>[일단 나와](https://github.com/LIKELIONTON-2024)</b> | 은둔, 고립 청년을 위한 간편한 외출 습관화 앱 | <img src="https://img.shields.io/badge/Backend-35637C"> |
-   | 24.03 ~ ing | <b>[Blottie](https://github.com/mangsuyo/SPARTATON-FE)</b> | 교내 외국인 X 내국인 대학생 매칭 및 교류 플랫폼 | <img src="https://img.shields.io/badge/Frontend-35637C">
+   | 24.03 ~ ing | <b>[Buddyya](https://github.com/mangsuyo/SPARTATON-FE)</b> | 교내 외국인 X 내국인 대학생 매칭 및 교류 플랫폼 | <img src="https://img.shields.io/badge/Frontend-35637C">
 
    <br>
    
